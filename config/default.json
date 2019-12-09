@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://daigunder:gcsvn123@clustersgp-tiqcz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
